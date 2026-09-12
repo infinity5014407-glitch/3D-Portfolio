@@ -14,6 +14,7 @@ export default defineConfig({
       input: {
         main: "index.html",
         about: "about.html",
+	memories: "memories.html",
         projects: "projects.html",
         skills: "skills.html",
         experience: "experience.html",

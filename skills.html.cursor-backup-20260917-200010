@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Experience — Tahajjud Hosen</title>
+  <title>Skills — Tahajjud Hosen</title>
   <script type="module" crossorigin src="assets/main-CZF9rx-g.js"></script>
   <link rel="stylesheet" crossorigin href="assets/main-Cq7ATPBZ.css">
 </head>
@@ -27,36 +27,35 @@
 
   <main class="inner-page">
     <section class="page-hero">
-      <span class="hero-eyebrow">04 / EXPERIENCE</span>
-      <h1>The journey<br><span class="gradient-text">so far.</span></h1>
-      <p>Learning, experimenting and continuously pushing toward bigger challenges.</p>
+      <span class="hero-eyebrow">03 / SKILLS</span>
+      <h1>Tools for<br><span class="gradient-text">building.</span></h1>
+      <p>A growing toolkit across software engineering, creative development and problem solving.</p>
     </section>
 
-    <section class="timeline">
-      <div class="timeline-item">
-        <span>2026 — NOW</span>
-        <div>
-          <h2>Independent Developer</h2>
-          <p>Building web applications, experimenting with 3D interfaces and strengthening software engineering fundamentals.</p>
-        </div>
+    <section class="skills-grid">
+      <div class="skill-card cyan">
+        <span>01</span>
+        <h2>Languages</h2>
+        <p>C++ · JavaScript · HTML · CSS</p>
       </div>
-
-      <div class="timeline-item">
-        <span>2025 — 2026</span>
-        <div>
-          <h2>Problem Solving</h2>
-          <p>Developing algorithmic thinking through competitive programming and C++ problem solving.</p>
-        </div>
+      <div class="skill-card purple">
+        <span>02</span>
+        <h2>Frontend</h2>
+        <p>React · Vite · Three.js · GSAP</p>
       </div>
-
-      <div class="timeline-item">
-        <span>ONGOING</span>
-        <div>
-          <h2>Always Learning</h2>
-          <p>Exploring modern development tools, Linux, creative coding and emerging technologies.</p>
-        </div>
+      <div class="skill-card pink">
+        <span>03</span>
+        <h2>Creative</h2>
+        <p>3D interfaces · Motion · Interactive UI</p>
+      </div>
+      <div class="skill-card blue">
+        <span>04</span>
+        <h2>Engineering</h2>
+        <p>Algorithms · Problem Solving · Linux</p>
       </div>
     </section>
   </main>
+
+  <div id="custom-cursor"></div>
 </body>
 </html>

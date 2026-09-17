@@ -14,8 +14,8 @@
   />
 
   <title>Tahajjud Hosen — Creative Developer</title>
-  <script type="module" crossorigin src="/assets/index-BK2XlSfV.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-C39n2ZAL.css">
+  <script type="module" crossorigin src="assets/main-CZF9rx-g.js"></script>
+  <link rel="stylesheet" crossorigin href="assets/main-Cq7ATPBZ.css">
 </head>
 
 <body>
@@ -482,5 +482,10 @@
     </footer>
 
   </div>
+
+
+  <div id="custom-cursor"></div>
+
+
 </body>
 </html>

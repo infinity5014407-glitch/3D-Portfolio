@@ -58,5 +58,7 @@
       </div>
     </section>
   </main>
+
+  <div id="custom-cursor"></div>
 </body>
 </html>
